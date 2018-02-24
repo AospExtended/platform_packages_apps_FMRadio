@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="notif_previous">Balik</string>
-  <string name="notif_stop">Tigil</string>
-  <string name="notif_next">Sunod</string>
+  <string name="notif_previous">Ang nakaraan</string>
+  <string name="notif_stop">Huminto</string>
+  <string name="notif_next">Susunod</string>
 </resources>
