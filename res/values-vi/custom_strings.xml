@@ -15,4 +15,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+  <string name="notif_previous">Về trước</string>
+  <string name="notif_stop">Ngừng phát</string>
+  <string name="notif_next">Tiếp</string>
+</resources>
