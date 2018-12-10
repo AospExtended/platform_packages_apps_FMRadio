@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="notif_previous">Előző</string>
-  <string name="notif_stop">Leállítás</string>
-  <string name="notif_next"> Következő</string>
+    <string name="notif_previous">Előző</string>
+    <string name="notif_stop">Leállítás</string>
+    <string name="notif_next">Következő</string>
 </resources>

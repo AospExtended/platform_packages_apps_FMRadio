@@ -15,8 +15,4 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-  <string name="notif_previous">Predchádzajúca</string>
-  <string name="notif_stop">Zastaviť</string>
-  <string name="notif_next">Ďaľsia</string>
-</resources>
+<resources></resources>

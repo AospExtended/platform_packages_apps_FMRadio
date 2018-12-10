@@ -15,8 +15,4 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-  <string name="notif_previous">पिछला</string>
-  <string name="notif_stop">रुकें</string>
-  <string name="notif_next">अगला</string>
-</resources>
+<resources></resources>

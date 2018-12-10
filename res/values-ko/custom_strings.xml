@@ -15,8 +15,4 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-  <string name="notif_previous">이전 곡</string>
-  <string name="notif_stop">멈춤</string>
-  <string name="notif_next">다음 곡</string>
-</resources>
+<resources></resources>

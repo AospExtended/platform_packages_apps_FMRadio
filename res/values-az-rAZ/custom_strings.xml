@@ -15,8 +15,4 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-  <string name="notif_previous">Əvvəlki</string>
-  <string name="notif_stop">Dayandır</string>
-  <string name="notif_next">Sonrakı</string>
-</resources>
+<resources></resources>

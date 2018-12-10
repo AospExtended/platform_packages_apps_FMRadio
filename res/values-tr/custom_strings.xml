@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="notif_previous">Önceki</string>
-  <string name="notif_stop">Durdur</string>
-  <string name="notif_next">Sonraki</string>
+    <string name="notif_previous">Önceki</string>
+    <string name="notif_stop">Durdur</string>
+    <string name="notif_next">Sonraki</string>
 </resources>

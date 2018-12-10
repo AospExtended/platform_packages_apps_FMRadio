@@ -15,8 +15,4 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-  <string name="notif_previous">Ang nakaraan</string>
-  <string name="notif_stop">Ang paghinto</string>
-  <string name="notif_next">Ang susunod</string>
-</resources>
+<resources></resources>
