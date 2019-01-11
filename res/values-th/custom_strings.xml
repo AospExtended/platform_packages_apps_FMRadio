@@ -15,4 +15,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+    <string name="notif_previous">ก่อนหน้า</string>
+    <string name="notif_stop">หยุด</string>
+    <string name="notif_next">ถัดไป</string>
+</resources>
