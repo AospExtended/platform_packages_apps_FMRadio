@@ -39,6 +39,8 @@ LOCAL_PRIVILEGED_MODULE := true
 LOCAL_STATIC_JAVA_LIBRARIES += android-support-v7-cardview
 LOCAL_RESOURCE_DIR = $(LOCAL_PATH)/res frameworks/support/cardview/res
 
+LOCAL_USE_AAPT2 := true
+
 LOCAL_AAPT_FLAGS := --auto-add-overlay --extra-packages android.support.v7.cardview
 
 include $(BUILD_PACKAGE)
